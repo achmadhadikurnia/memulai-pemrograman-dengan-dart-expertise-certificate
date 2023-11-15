@@ -1,4 +1,4 @@
-# Dicoding: Memulai Pemrograman dengan Dart
+# Memulai Pemrograman dengan Dart
 Belajar bahasa Dart sebagai fondasi dasar untuk mengembangkan aplikasi di berbagai platform menggunakan Flutter.
 
 ## Class
